@@ -1,0 +1,16 @@
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\bin\Debug\net6.0\Task3.exe
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\bin\Debug\net6.0\Task3.deps.json
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\bin\Debug\net6.0\Task3.dll
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\bin\Debug\net6.0\ref\Task3.dll
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\bin\Debug\net6.0\Task3.pdb
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.GlobalUsings.g.cs
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.dll
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\ref\Task3.dll
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.pdb
+C:\Users\rekal\OneDrive\Рабочий стол\HW8\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
